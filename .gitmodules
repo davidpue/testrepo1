@@ -1,0 +1,3 @@
+[submodule "testrepo2"]
+	path = testrepo2
+	url = https://github.com/davidpue/testrepo2.git
